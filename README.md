@@ -1,6 +1,7 @@
 Github Resume 2020-07-15
 
-# Yuuto Nakagawa
+# Yuuto Nakagawa 
+_[Twitter](https://twitter.com/eric_lightning) | [Quora(Japan)](https://jp.quora.com/profile/Nakagawa-Yuuto-1)_
 
 Academic Student, Japanese, Network/Server/Web/CLI Interesting.
 
@@ -9,6 +10,14 @@ Academic Student, Japanese, Network/Server/Web/CLI Interesting.
   - Network Infrastructure and Security Laboratory
     - Hanada Seminar http://www.mhis.tuis.ac.jp
   - NetTech https://www.nettech.tuis.ac.jp
+## My WWW
+
+| CATEGORY | URI |
+|:--------:|----:|
+Scripts  | https://sh.eric-lightning.info
+Knowledge| https://md.eric-lightning.info
+
+  
 
 ## About me.
 
