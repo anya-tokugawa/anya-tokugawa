@@ -1,4 +1,4 @@
-Github Resume 2020-07-15
+Github Resume 2020-07-15 English | [日本語](README.ja.md)
 
 # Yuuto Nakagawa 
 _[Twitter](https://twitter.com/eric_lightning) | [Quora(Japan)](https://jp.quora.com/profile/Nakagawa-Yuuto-1)_
