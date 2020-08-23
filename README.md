@@ -1,5 +1,9 @@
 Github Resume 2020-07-15 English | [日本語](README.ja.md)
 
+![GitHub followers](https://img.shields.io/github/followers/Eric-lightning?style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/eric_lightning?style=for-the-badge)
+
+
 # Yuuto Nakagawa 
 _[Twitter](https://twitter.com/eric_lightning) | [Quora(Japan)](https://jp.quora.com/profile/Nakagawa-Yuuto-1)_
 
