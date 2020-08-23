@@ -2,6 +2,9 @@ Github Resume 2020-07-15 [English](README.md) | 日本語
 
 # ユウト・ナカガワ
 
+![GitHub followers](https://img.shields.io/github/followers/Eric-lightning?style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/eric_lightning?style=for-the-badge)
+
 _[Twitter](https://twitter.com/eric_lightning) | [Quora(Japan)](https://jp.quora.com/profile/Nakagawa-Yuuto-1)_
 
 大学生, 日本人, ネットワーク/サーバー/ウェブ/コマンドライン に興味.
