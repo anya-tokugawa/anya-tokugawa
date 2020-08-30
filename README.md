@@ -4,8 +4,11 @@ Github Resume Rolling English | [日本語](README.ja.md)
 
 ![GitHub followers](https://img.shields.io/github/followers/Eric-lightning?style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/eric_lightning?style=for-the-badge)
+<img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white">
 
-_[Twitter](https://twitter.com/eric_lightning) | [Quora(Japan)](https://jp.quora.com/profile/Nakagawa-Yuuto-1)_
+<a href="https://twitter.com/eric_lightning"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+
+<a href="https://jp.quora.com/profile/Nakagawa-Yuuto-1"><img src="https://shields.io/badge/Quora-Japan-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"></a>
 
 Academic Student, Japanese, Network/Server/Web/CLI Interesting.
 
