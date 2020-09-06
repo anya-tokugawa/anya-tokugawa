@@ -1,4 +1,4 @@
-Github Resume Rolling English | [日本語](README.ja.md)
+Github Resume Rolling English | [日本語](https://github.com/Eric-lightning/Eric-lightning/blob/master/README.ja.md)
 
 # Yuuto Nakagawa 
 
@@ -45,9 +45,9 @@ Knowledge| https://md.eric-lightning.info
 
 ## About me.
 
-- [Jobs](JOBs.md)
-- [Enviroment](ENV.md)
-- [Skills](SKILLs.md)
+- [Jobs](https://github.com/Eric-lightning/Eric-lightning/blob/master/JOBs.md)
+- [Enviroment](https://github.com/Eric-lightning/Eric-lightning/blob/master/ENV.md)
+- [Skills](https://github.com/Eric-lightning/Eric-lightning/blob/master/SKILLs.md)
     
     
     
