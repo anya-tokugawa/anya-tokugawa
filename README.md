@@ -16,6 +16,7 @@ Github Resume Rolling English | [日本語](https://github.com/Eric-lightning/Er
 Academic Student, Japanese, Network/Server/Web/CLI Interesting.
 
 ## Env.
+
 ![Windows](https://img.shields.io/static/v1?label=&message=Windows_10_latestBuild(no-insider)with_WSL2&color=0078D6&style=for-the-badge&logo=Windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/static/v1?label=&message=Ubuntu_Server_18.04_LTS&color=E95420&style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Firefox](https://img.shields.io/static/v1?label=&message=FirefoxQuantum&color=FF7139&style=for-the-badge&logo=firefox&logoColor=white)
@@ -28,6 +29,7 @@ Academic Student, Japanese, Network/Server/Web/CLI Interesting.
 ![Github](https://img.shields.io/static/v1?label=&message=Github&color=181717&style=for-the-badge&logo=Github&logoColor=white)
 ![NginX](https://img.shields.io/static/v1?label=&message=NginX&color=269539&style=for-the-badge&logo=NginX&logoColor=white)
 
+and more: [Enviroment](https://github.com/Eric-lightning/Eric-lightning/blob/master/ENV.md)
 
 ## Belongs
 
@@ -48,7 +50,6 @@ Knowledge| https://md.eric-lightning.info
 
 - [Resume](https://github.com/Eric-lightning/Eric-lightning/blob/master/Resume.md)
 - [Enviroment](https://github.com/Eric-lightning/Eric-lightning/blob/master/ENV.md)
-- [Skills](https://github.com/Eric-lightning/Eric-lightning/blob/master/SKILLs.md)
     
     
     
