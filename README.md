@@ -45,6 +45,7 @@ Knowledge| https://md.eric-lightning.info
 
 ## About me.
 
+- Resume
 - [Jobs](https://github.com/Eric-lightning/Eric-lightning/blob/master/JOBs.md)
 - [Enviroment](https://github.com/Eric-lightning/Eric-lightning/blob/master/ENV.md)
 - [Skills](https://github.com/Eric-lightning/Eric-lightning/blob/master/SKILLs.md)
