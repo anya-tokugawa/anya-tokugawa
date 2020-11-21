@@ -4,12 +4,12 @@ Resume
 
 Chiba, Japan
 
+https://twitter.com/eric_lightning 
 
 ## Summary
 
-- Univ. Stident(Information, Bachelor (2021-:Master))
-- Want a technical job(FullTime:2023-)
-- 
+- Univ. Stident(Information, Bachelor (**2021-**:Master))
+- Want a technical job(FullTime:**2023-**)
 
 ## Skill
 
@@ -27,7 +27,7 @@ Chiba, Japan
     - HTML/CSS/ECMA Javascript( SCSS,yet.)
     - PHP
 - Managed Projects, Teams.(at. Univ./PartTimeJob)
-  - 2020: tudent Leader belonging at Lab.
+  - **2020**: tudent Leader belonging at Lab.
 
 ## Jobs
 
@@ -43,7 +43,7 @@ N/A
 - Check for suspicious objects in the train.
 - Passenger Induction
 - Notice to Passenger
-- 2020-: Part-Time Leader
+- **2020-**: Part-Time Leader
 
 #### **2018 -** NetTech Works
 
@@ -64,7 +64,7 @@ N/A
   
 #### For job hunting/Public relations 
 
-- Inteviewing and Presentation about Internship
+- **2019** Inteviewing and Presentation about Internship
 - **2019-2020** OPENCAMPUS staff (OPENCAMPUS is Japanglish meaning an event the college's open(public relation) day for high school students/examinees)
 
 ## Education
@@ -72,10 +72,3 @@ N/A
 - 2021 - 2023 Tokyo University of Information Sciences (Master)
 - 2017 - 2021 Tokyo University of Information Sciences (Bachelor)
 - 2014 - 2017 Funabashi Keimei Highschool (General Studies)
-
-## And...
-
-Twitter: https://twitter.com/eric_lightning (Following OK.)
-Quora:
-HP:
-Facebook:
