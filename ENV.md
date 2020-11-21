@@ -1,18 +1,30 @@
 # Enviroment
 
+- Home: via AS17676
+
+
 ## Computer
 
 ### Desktop
 
 - AMD X4 675/16G Mem, Windows 10 Pro
 
-### Server
+### Server Services
 
-- SMB File Server
+- IdM(FreeIPA)
+- SMB File Server(authed from IdM)
 - Portainer Docker Server
-- WWW
-- DNS
-- Dev
+- www(apache,nginx,litespeed)
+- DNS(named)
+- Dev(ubuntu)
+
+### Public Servers
+
+- HOME(JP) via AS17676 : Private Server
+- SRV (JP) via AS7506  : PHP and FileServer for Cloud
+- VPS (JP) via AS9370  : WebApp Hosting and VPN Bridge
+- VPS (US) via AS9100  : Experiment
+- Univ(JP) via AS2907  : My Team Hosting
 
 ### Laptop
 
