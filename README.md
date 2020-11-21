@@ -30,10 +30,15 @@ Academic Student, Japanese, Network/Server/Web/CLI Interesting.
 
 
 ## Belongs
+
+
 - Tokyo University of Informartion Sciences [2017-] http://www.tuis.ac.jp
   - Network Infrastructure and Security Laboratory
     - Hanada Seminar http://www.mhis.tuis.ac.jp
   - NetTech https://www.nettech.tuis.ac.jp
+- Funabashi Keimei High School (-2017)
+
+
 ## My WWW
 
 | CATEGORY | URI |
