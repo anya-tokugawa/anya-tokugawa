@@ -13,7 +13,7 @@ https://twitter.com/eric_lightning
 
 ## Skill
 
-- Coding, Network Enginnering, Server Enginnering.\
+- Coding, Network Enginnering, Server Enginnering
   - Linux Enginnering(Ubuntu,CentOS)
   - Network Enginering (TroubleBustering, Configuration)
   - Programing
@@ -21,13 +21,13 @@ https://twitter.com/eric_lightning
     - Java
     - Python3
     - Rust (and Learning)
-    - Bash (LOVE It Scripts!)
-    - Zsh (Love It Shell!)
+    - Bash (LOVE Scripts!)
+    - Zsh (LOVE Shell!)
     - NodeJS (and Learning)
     - HTML/CSS/ECMA Javascript( SCSS,yet.)
     - PHP
 - Managed Projects, Teams.(at. Univ./PartTimeJob)
-  - **2020**: tudent Leader belonging at Lab.
+  - **2020**: Student Leader belonging at Lab.
 
 ## Jobs
 
