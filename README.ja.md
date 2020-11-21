@@ -25,9 +25,8 @@ _[Twitter](https://twitter.com/eric_lightning) | [Quora(Japan)](https://jp.quora
 
 ## 私について（英語）
 
-- [Jobs](JOBs.md)
+- [Resume](Resume.md)
 - [Enviroment](ENV.md)
-- [Skills](SKILLs.md)
     
     
     
