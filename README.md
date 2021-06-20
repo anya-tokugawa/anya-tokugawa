@@ -15,31 +15,23 @@ Github Resume Rolling English | [日本語](https://github.com/Eric-lightning/Er
   
 Academic Student, Japanese, Network/Server/Web/CLI Interesting.
 
-
-
-and more: [Enviroment](https://github.com/Eric-lightning/Eric-lightning/blob/master/ENV.md)
-
+- [Resume](https://github.com/Eric-lightning/Eric-lightning/blob/master/Resume.md)
+- [Enviroment](https://github.com/Eric-lightning/Eric-lightning/blob/master/ENV.md)
+ 
 ## Belongs
 
 - Tokyo University of Informartion Sciences [2017-] http://www.tuis.ac.jp
   - Network Infrastructure and Security Laboratory
-    - Hanada Seminar http://www.mhis.tuis.ac.jp
+    - Hanada Seminar https://www.mhis.tuis.ac.jp
   - NetTech https://www.nettech.tuis.ac.jp
 
-
+  
 ## My WWW
 
 | CATEGORY | URI |
 |:--------:|----:|
 Scripts  | https://sh.eric-lightning.info
-Knowledge| https://md.eric-lightning.info
-
-## About me.
-
-- [Resume](https://github.com/Eric-lightning/Eric-lightning/blob/master/Resume.md)
-- [Enviroment](https://github.com/Eric-lightning/Eric-lightning/blob/master/ENV.md)
-    
-    
+Knowledge| https://md.eric-lightning.info    
     
 
 
