@@ -4,7 +4,11 @@ Github Resume Rolling English | [日本語](https://github.com/Eric-lightning/Er
 
 ![GitHub followers](https://img.shields.io/github/followers/Eric-lightning?style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/eric_lightning?style=for-the-badge) 
-<br>
+
+
+Academic Student, Japanese, Network/Server/Web/CLI Interesting.
+
+
 <a href="https://open.spotify.com/user/wsi6c0hvw2w3ruitfw1ht9egk">
   <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://twitter.com/eric_lightning">
@@ -14,7 +18,6 @@ Github Resume Rolling English | [日本語](https://github.com/Eric-lightning/Er
 <a href="https://www.facebook.com/ericlightningsky">
   <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
   
-Academic Student, Japanese, Network/Server/Web/CLI Interesting.
 
 - [Resume](https://github.com/Eric-lightning/Eric-lightning/blob/master/Resume.md)
 - [Enviroment](https://github.com/Eric-lightning/Eric-lightning/blob/master/ENV.md)
