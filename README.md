@@ -4,6 +4,7 @@ Github Resume Rolling English | [日本語](https://github.com/Eric-lightning/Er
 
 ![GitHub followers](https://img.shields.io/github/followers/Eric-lightning?style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/eric_lightning?style=for-the-badge) 
+<br>
 <a href="https://open.spotify.com/user/wsi6c0hvw2w3ruitfw1ht9egk">
   <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://twitter.com/eric_lightning">
