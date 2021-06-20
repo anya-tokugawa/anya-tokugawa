@@ -8,7 +8,7 @@ https://twitter.com/eric_lightning
 
 ## Summary
 
-- Univ. Stident(Information, Bachelor (**2021-**:Master))
+- Univ. Student(Information, Bachelor (**2021-**:Master))
 - Want a technical job(FullTime:**2023-**)
 
 ## Skill
@@ -20,14 +20,19 @@ https://twitter.com/eric_lightning
     - C/C++ (and Learning)
     - Java
     - Python3
-    - Rust (and Learning)
+    - Rust ~~(and Learning)~~ **Pending**
     - Bash (LOVE Scripts!)
     - Zsh (LOVE Shell!)
     - NodeJS (and Learning)
     - HTML/CSS/ECMA Javascript( SCSS,yet.)
-    - PHP
+    - PHP ... MyWiki: https://md.eric-lightning.info/
 - Managed Projects, Teams.(at. Univ./PartTimeJob)
   - **2020**: Student Leader belonging at Lab.
+
+- TOEIC: N/A
+> (I'll take the test someday. Maybe someday.)
+
+
 
 ## Jobs
 
@@ -65,7 +70,9 @@ N/A
 #### For job hunting/Public relations 
 
 - **2019** Inteviewing and Presentation about Internship
-- **2019-2020** OPENCAMPUS staff (OPENCAMPUS is Japanglish meaning an event the college's open(public relation) day for high school students/examinees)
+- **2019-2020** OPENCAMPUS staff day for high school students/examinees)
+
+> OPENCAMPUS is Japanglish meaning an event the college's open(public relation) 
 
 ## Education
 
