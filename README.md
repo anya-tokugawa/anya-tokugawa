@@ -1,4 +1,4 @@
-Github Resume Rolling English | [日本語](https://github.com/Eric-lightning/Eric-lightning/blob/master/README.ja.md)
+Github Resume Rolling | English | [日本語](https://github.com/Eric-lightning/Eric-lightning/blob/master/README.ja.md)
 
 # Yuuto Nakagawa 
 
