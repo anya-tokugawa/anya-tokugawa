@@ -1,5 +1,3 @@
-Github Resume Rolling | English | [日本語](https://github.com/anya-tokugawa/anya-tokugawa/blob/master/README.ja.md)
-
 # Yuto Nakagawa 
 
 ![GitHub followers](https://img.shields.io/github/followers/anya-tokugawa?style=for-the-badge)
@@ -18,7 +16,6 @@ Academic Student, Japanese, Network/Server/Web/CLI Interesting.
 <a href="https://www.facebook.com/ericlightningsky">
   <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
   
-
 - [Resume](https://github.com/anya-tokugawa/anya-tokugawa/blob/master/Resume.md)
 - [Enviroment](https://github.com/anya-tokugawa/anya-tokugawa/blob/master/ENV.md)
  
