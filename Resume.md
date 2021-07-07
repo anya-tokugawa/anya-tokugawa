@@ -4,7 +4,7 @@ Resume
 
 Chiba, Japan
 
-https://twitter.com/eric_lightning 
+https://twitter.com/anya_tokugawa
 
 ## Summary
 
