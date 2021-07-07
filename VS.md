@@ -7,13 +7,21 @@ Category | Answer
 Browser | Mozilla Firefox Quantum
 Mailer | Moziila Thunderbird
 Editor(CLI) | VIM
-Editor(GUI) | VSCode, Notepad++
+Editor(GUI) | Visual Studio Code notepad.exe
 Video Player| VLC Media Player
-Music | Spotify
+Office | Microsoft Office
+Todo | Microsoft Planner/Todo( with Office)
+VM | VirtualBox, Proxmox
+PDF | PDF Elements Pro
+Movie | D-Anime-Store with NicoVideo.jp 
+Payment| Revolut, Paypal
+Search | DDG/Google, Local: (Win)Everything (Linux)mlocate,ripgrep
+File| NextCloud, Samba
+Music | Spotify❤
 OS | Win10Pro(with WSL), and Ubuntu 18.04 (More Secure liked CentOS7/8)
-Most DepOps Lang | BashScript,Python3, and C++
-Social Community | Twitter
-Cloud or Own? | Own/Self Hosting.
+Most Used Lang | BashScript, Go, Python3, and C++ (Web:PHP,js)
+Social Community | Twitter, Discord, Teams, Quora
+Cloud or Own? | Own/Self Hosting. but, Cloud is Highly convenient.
 CLI? GUI? | CLI is good. (but, WebGUI used on mobile term)
 Tea? Cofffee? | Coffee
 
