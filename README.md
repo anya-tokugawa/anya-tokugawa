@@ -1,9 +1,9 @@
-Github Resume Rolling | English | [日本語](https://github.com/Eric-lightning/Eric-lightning/blob/master/README.ja.md)
+Github Resume Rolling | English | [日本語](https://github.com/anya-tokugawa/anya-tokugawa/blob/master/README.ja.md)
 
-# Yuuto Nakagawa 
+# Yuto Nakagawa 
 
-![GitHub followers](https://img.shields.io/github/followers/Eric-lightning?style=for-the-badge)
-![Twitter Follow](https://img.shields.io/twitter/follow/eric_lightning?style=for-the-badge) 
+![GitHub followers](https://img.shields.io/github/followers/anya-tokugawa?style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/anya-tokugawa?style=for-the-badge) 
 
 
 Academic Student, Japanese, Network/Server/Web/CLI Interesting.
@@ -19,29 +19,14 @@ Academic Student, Japanese, Network/Server/Web/CLI Interesting.
   <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
   
 
-- [Resume](https://github.com/Eric-lightning/Eric-lightning/blob/master/Resume.md)
-- [Enviroment](https://github.com/Eric-lightning/Eric-lightning/blob/master/ENV.md)
+- [Resume](https://github.com/anya-tokugawa/anya-tokugawa/blob/master/Resume.md)
+- [Enviroment](https://github.com/anya-tokugawa/anya-tokugawa/blob/master/ENV.md)
  
 ## Belongs
 
-- Tokyo University of Informartion Sciences [2017-] http://www.tuis.ac.jp
-  - Network Infrastructure and Security Laboratory
-    - Hanada Seminar https://www.mhis.tuis.ac.jp
-  - NetTech https://www.nettech.tuis.ac.jp
-
-  
-## My WWW
-
-| CATEGORY | URI |
-|:--------:|----:|
-Scripts  | https://sh.eric-lightning.info
-Knowledge| https://md.eric-lightning.info    
-    
-
-
-
-
-
+- Tokyo University of Informartion Sciences [2017-] http://www.tuis.ac.jp [MY ACTIVITY](http://www.edu.tuis.ac.jp~g21008ny/)
+  - Network Infrastructure and Security Hanada Lab (https://www.mhis.tuis.ac.jp)
+  - [NetTech](https://www.nettech.tuis.ac.jp)
 <!--
 **Eric-lightning/Eric-lightning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
