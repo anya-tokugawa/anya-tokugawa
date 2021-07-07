@@ -25,7 +25,7 @@ Academic Student, Japanese, Network/Server/Web/CLI Interesting.
 ## Belongs
 
 - Tokyo University of Informartion Sciences [2017-] http://www.tuis.ac.jp [MY ACTIVITY](http://www.edu.tuis.ac.jp~g21008ny/)
-  - Network Infrastructure and Security Hanada Lab (https://www.mhis.tuis.ac.jp)
+  - [Hanada Lab](https://www.mhis.tuis.ac.jp)(Network Infrastructure and Security Lab)
   - [NetTech](https://www.nettech.tuis.ac.jp)
 <!--
 **Eric-lightning/Eric-lightning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
