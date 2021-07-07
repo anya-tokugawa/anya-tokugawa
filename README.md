@@ -18,7 +18,7 @@ Academic Student, Japanese, Network/Server/Web/CLI Interesting.
   
 - [Resume](https://github.com/anya-tokugawa/anya-tokugawa/blob/master/Resume.md)
 - [Enviroment](https://github.com/anya-tokugawa/anya-tokugawa/blob/master/ENV.md)
-- [More Informaton](https://anya-tokugawa.github.io/anya-tokugawa/README.MORE)
+- [More Informaton](https://anya-tokugawa.github.io/anya-tokugawa/More)
  
 ## Belongs
 
