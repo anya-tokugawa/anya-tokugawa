@@ -17,7 +17,6 @@ Academic Student, Japanese, Network/Server/Web/CLI Interesting.
   <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
   
 - [Resume](https://github.com/anya-tokugawa/anya-tokugawa/blob/master/Resume.md)
-- [Enviroment](https://github.com/anya-tokugawa/anya-tokugawa/blob/master/ENV.md)
 - [More Informaton](https://anya-tokugawa.github.io/anya-tokugawa/More)
  
 ## Belongs
