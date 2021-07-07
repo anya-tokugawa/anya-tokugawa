@@ -1,7 +1,7 @@
 # Yuto Nakagawa 
 
 ![GitHub followers](https://img.shields.io/github/followers/anya-tokugawa?style=for-the-badge)
-![Twitter Follow](https://img.shields.io/twitter/follow/anya-tokugawa?style=for-the-badge) 
+![Twitter Follow](https://img.shields.io/twitter/follow/anya_tokugawa?style=for-the-badge) 
 
 
 Academic Student, Japanese, Network/Server/Web/CLI Interesting.
