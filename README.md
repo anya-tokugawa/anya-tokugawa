@@ -3,6 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/anya-tokugawa?style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/anya_tokugawa?style=for-the-badge) 
 <iframe src="https://open.spotify.com/follow/1/?uri=spotify:user:wsi6c0hvw2w3ruitfw1ht9egk&size=detail&theme=light&show-count=0" width="300" height="56" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe>
+<a href="https://twitter.com/anya_tokugawa?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @anya_tokugawa</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Academic Student, Japanese, Network/Server/Web/CLI Interesting.
 
@@ -25,4 +26,5 @@ Academic Student, Japanese, Network/Server/Web/CLI Interesting.
   - [Hanada Lab](https://www.mhis.tuis.ac.jp) (Network Infrastructure and Security Lab)
   - [NetTech](https://www.nettech.tuis.ac.jp)
 
-<a class="twitter-timeline" href="https://twitter.com/anya_tokugawa?ref_src=twsrc%5Etfw">Tweets by anya_tokugawa</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
