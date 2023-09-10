@@ -5,7 +5,7 @@
 
 <a href="https://twitter.com/anya_tokugawa?ref_src=twsrc%5Etfw">Follow @anya_tokugawa</a>
 
-Academic Student, Japanese, Network/Server/Web/CLI Interesting.
+Japanese, Network/Server/Web/CLI Interesting.
 
 <a href="https://open.spotify.com/user/wsi6c0hvw2w3ruitfw1ht9egk">
   <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
