@@ -18,10 +18,3 @@ Japanese, Network/Server/Web/CLI Interesting.
   
 - Resume: https://anya.jp/resume.html
 - More Informaton: https://anya.jp/
-
-## Belongs
-
-- Tokyo University of Informartion Sciences [2017-] [MY ACTIVITY](http://www.edu.tuis.ac.jp/~g21008ny/)
-  - [Hanada Lab](https://www.mhis.tuis.ac.jp) (Network Infrastructure and Security Lab)
-  - [NetTech](https://www.nettech.tuis.ac.jp)
-
